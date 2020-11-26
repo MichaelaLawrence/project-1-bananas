@@ -33,3 +33,9 @@ tmp/
 
 # Brunch output folder.
 public/
+
+Banana_Linux/
+communicator_objects/
+ml-agents-release_8/
+unityagents/
+P1/

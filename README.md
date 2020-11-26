@@ -4,6 +4,14 @@
 
 # Project 1: Navigation
 
+### Directory
+
+`Navigation.ipynb` is the wrapper for the code, all code can be run from here. 
+
+`report.pdf` decribes my aproach to the problem and possible future improvements. 
+
+`checkpoint.pth` contains model weights. 
+
 ### Introduction
 
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
